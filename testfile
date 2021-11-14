@@ -1,0 +1,7 @@
+This is a test file, created in Library
+This edit is made in AppOne/dev-one/library-one
+One more edit the same way
+And one more edit the same way
+Now editing in Monorepo/third_test/appone/library-one
+Now tryin to edit in Library directly, expecting conflict
+Edited in Monorepo/Library (eighth test)
