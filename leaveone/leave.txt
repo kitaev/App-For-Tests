@@ -1,0 +1,2 @@
+This is another file to leave
+Edited in App1 after disabling sync - conflict resolved
