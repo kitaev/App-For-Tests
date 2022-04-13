@@ -3,3 +3,5 @@ This file is edited in Monorepo/app1
 This file is edited in Lib1
 This file is edited in App1
 Now this file is edited in Lib1 after disabling sync and creating conflict
+---------------
+New testing: editing file in Monorepo_A/App2a/Lib1a_filtered/takeone
