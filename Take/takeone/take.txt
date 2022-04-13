@@ -7,4 +7,4 @@ Now this file is edited in Lib1 after disabling sync and creating conflict
 New testing: editing file in Monorepo_A/App2a/Lib1a_filtered/Take/takeone
 Editing file in Lib1a/Take/takeone
 Edited again in Monorepo_A/Lib1a/Take/takeone
-Now editing in Monorepo_A/App1a/Lib1a/Take/takeone with sync off
+Edited in Lib1a/Take/takeone with sync off in Monorepo
