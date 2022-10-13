@@ -1,0 +1,8 @@
+This is a file to take
+This file is edited in Monorepo/app1
+This file is edited in Lib1
+This file is edited in App1
+Now this file is edited in Lib1 after disabling sync and creating conflict
+Edited in Lib1, branch alter
+-------
+Edited in Monorepo_B/Lib1a/takeone

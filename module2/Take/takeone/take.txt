@@ -1,0 +1,14 @@
+This is a file to take
+This file is edited in Monorepo/app1
+This file is edited in Lib1
+This file is edited in App1
+Now this file is edited in Lib1 after disabling sync and creating conflict
+---------------
+New testing: editing file in Monorepo_A/App2a/Lib1a_filtered/Take/takeone
+Editing file in Lib1a/Take/takeone
+Edited again in Monorepo_A/Lib1a/Take/takeone
+Edited in Lib1a/Take/takeone with sync off in Monorepo
+Edited again in Lib1a/Take/takeone with sync off in Monorepo
+---------------
+New testing: edited in Monorepo_A/Lib1a/Take/takeone
+Edited in Lib1a/Take/takeone
